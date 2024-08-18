@@ -5,7 +5,6 @@
 14系统也能用需要更换w驱动  但是有一个坑就是 bcm94360网卡13.5系统不免驱 用不了用不了 可能是amd本子的锅 
 解决不了 加了驱动没用 重制nv没用 加pcie地址没用 放弃了 买了ax210 网卡 回头再测试一下dw1830网卡 
 
-Hello everyone, the Monterey kernel panic problem has been solved for AMD R7 5800H notebook installation. It is a great thing that the CPU can now run on 8 cores. Thank you guys very much.Thank them for discovering the problem and providing kernel patches @ExtremeX@Visual
 
 Brand: Lenovo
 Model: Legion 5 6th Gen
