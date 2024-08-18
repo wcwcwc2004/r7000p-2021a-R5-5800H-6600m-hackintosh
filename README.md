@@ -9,13 +9,21 @@ Hello everyone, the Monterey kernel panic problem has been solved for AMD R7 580
 
 Brand: Lenovo
 Model: Legion 5 6th Gen
+
 CPU: AMD Ryzen 7 5800h
+
 GPU: AMD Radeon RX 6600m 8GB ( Separate GPU mode)
+
 HDD: Samsung SSD 970 EVO Plus 1TB (1000 GB, PCI-E 3.0 x4)
+
 WDS500G3X0C-00SJG0 (500 GB, PCI-E 3.0 x4)
+
 Network: RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
+
 Intel(R) Wi-Fi 6E AX210 160MHz
+
 Ram: x2 8GB 3200mhz ddr4
+
 Display: 15.6 1080p 165HZ
 
 Updated October 5, 2023
